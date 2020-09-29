@@ -9,7 +9,11 @@ export default function Post({ htmlString, data }) {
     return <>
         <Head>
             <title> {data.title} </title>
-            <meta title="description" content={data.description} />
+            <meta
+                title="description"
+                name="description"
+                content={data.description}
+            />
         </Head>
         <div dangerouslySetInnerHTML={{ __html: htmlString }} />
     </>;
