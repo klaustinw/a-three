@@ -1,3 +1,5 @@
+Color pallete: https://coolors.co/36213e-554971-63768d-8ac6d0-b8f3ff
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
