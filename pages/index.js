@@ -2,7 +2,7 @@ import Link from 'next/link';
 import Head from 'next/head';
 import fs from 'fs';
 import styles from '../styles/Home.module.css';
-import { Card } from 'react-bootstrap';
+import { Button, Jumbotron, OverlayTrigger, Tooltip } from 'react-bootstrap';
 
 export default function Home({ slugs }) {
   return (
@@ -18,32 +18,30 @@ export default function Home({ slugs }) {
         />
       </Head>
       <div className={styles.container}>
+        <Jumbotron className={styles.header}>
+          <h1 className="text-white text-align-center">
+            Welcome to A3, Anime Wikia
+        </h1>
+        </Jumbotron>
         {
           slugs.map(slug => {
             return (
               <Link key={slug} href='/anime/[slug]' as={'/anime/' + slug}>
                 <a>
-                  <Card
-                    bg='primary'
+                  <Button
+                    variant="primary"
                     style={{
-                      width: '18rem'
+                      height: '6rem',
+                      width: '18rem',
+                      fontSize: '32px',
+                      textAlign: 'center',
+                      backgroundColor: '#554971',
+                      border: 'none',
+                      marginBottom: '4vh'
                     }}
-                  > {
-                      /* the idea is to show these background cards as in /images/{slug}.jpg instead of 'primary',
-                      
-                      ---and on hover, change the whole site's background accordingly and make the background
-                      card transparent--- */
-                    }
-                    <Card.Body>
-                      <Card.Title style={{
-                        color: 'white',
-                        textAlign: 'center',
-                        fontSize: '32px'
-                      }}>
-                        {slug}
-                      </Card.Title>
-                    </Card.Body>
-                  </Card>
+                  >
+                    {slug.replace('_', ' ')}
+                  </Button>
                 </a>
               </Link>
             )

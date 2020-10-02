@@ -1,0 +1,21 @@
+---
+title: Violet Evergarden
+description: "As the title suggests, Violet Evergarden is a story about an Auto Memories Doll, Violet of her daily routines helping customers by writing them letters for their loved ones."
+---
+
+# Violet Evergarden!
+
+## Summary
+
+The story revolves around Auto Memories Dolls; dolls initially created by a scientist to assist his blind wife with writing her novels, and later rented out to other people who needed their services. While the initial function of these Auto Memories Dolls is only to generate voices into text, a second group of people created a company that rented out beautiful, talented women who, while having the same function as the original Auto Memories Dolls, can also perform military-related tasks. <br>
+
+## Characters
+
+- ### Violet
+  Violet Evergarden (ヴァイオレット・エヴァーガーデン, Vaioretto Evāgāden?) is the titular protagonist of the Violet Evergarden series. She is a former child soldier who happens to be an orphan; she was enlisted in the Leidenschaftlich army and fought in the war, where she was treated as nothing more than a weapon because of her extraordinary fighting capabilities. After the war, Violet became an Auto Memories Doll at the CH Postal Company, seeking to understand the meaning of the words "I love you," which was said to her by the person she holds dearest, Gilbert Bougainvillea, during the War's final leg. <br><br>
+- ### Hodgins
+  Claudia Hodgins (クラウディア・ホッジンズ, Kuraudia Hojjinzu?) is a character in the Violet Evergarden series. He is a former lieutenant-colonel of the army, but quit the military after the war ended and established the CH Postal Company, where he serves as its president. He is tasked with watching over Violet, a task given to him by Gilbert. <br><br>
+- ### Cattleya
+  Cattleya Baudelaire (カトレア・ボードレール, Katorea Bōdorēru?) is a character in the Violet Evergarden series. Being a figurehead Auto Memories Doll who works for the CH Postal Company, Cattleya never stops being requested and often takes on clients with love troubles. She works alongside Violet and has been close with Hodgins since before the company was established, joining as one of its initial employees <br><br>
+- ### Benedict
+  Benedict Blue (ベネディクト・ブルー, Benedikuto Burū?) is a character in the Violet Evergarden series. He is a postman working at the CH Postal Company. He has known Hodgins since before the company's establishment and has had a brusque attitude towards him since he starting work there.
