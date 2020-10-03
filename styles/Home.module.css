@@ -12,3 +12,42 @@
 .header {
   background-color: #36213e;
 }
+
+.navbar {
+  background-color: #231629;
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+
+.title {
+  font-size: 28px;
+  color: #f0f0f0;
+}
+
+.title:hover {
+  background: linear-gradient(
+    to right,
+    white,
+    white,
+    #0099ff,
+    #00ff00,
+    #ff3399,
+    #6666ff
+  );
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  animation: rainbow_animation 1.5s ease-in-out;
+  background-size: 400% 100%;
+}
+
+@keyframes rainbow_animation {
+  0%,
+  100% {
+    background-position: 0 0;
+  }
+
+  50% {
+    background-position: 100% 0;
+  }
+}

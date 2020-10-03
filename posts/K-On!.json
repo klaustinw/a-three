@@ -1,0 +1,32 @@
+{
+  "title": "K-On!",
+  "description": "K-On! is an anime made to fill your soul with joy and happiness",
+  "summary": "K-ON! (けいおん!, literally 'Light Music') is a Japanese slice of life and comedy four-panel comic strip manga written and illustrated by Kakifly. It was serialized from 2007 to 2012 and there are six volumes to the manga in total. Kyoto Animation produced the anime adaptation, which aired from 2009 to 2010 over two seasons of 12 and 24 episodes respectively. Additionally, many extras, bonus shorts, and even a feature length film, which premiered in 2011, were produced. K-ON!'s plot revolves around the Sakuragaoka High School Light Music Club, which was on the brink of being disbanded until Yui Hirasawa joined as its fourth member alongside Ritsu Tainaka, Mio Akiyama, and Tsumugi Kotobuki. Later, they form the band Ho-kago Tea Time with their fifth member, Azusa Nakano. Though they do often spend time writing and performing music, the series focuses more on their day to day lives at school and the girls of the Light Music Club become notorious for slacking off, trips to luxurious villas, and of course, for afternoon tea time, just like their band's name.",
+  "characters": [
+    {
+      "name": "Hirasawa Yui",
+      "description": "Yui Hirasawa (平沢 唯) is a moving blob. She's also the main protagonist. She is the air-headed lead guitarist and vocalist of the band Ho-kago Tea Time.",
+      "image": "image here"
+    },
+    {
+      "name": "Kotobuki Tsumugi ",
+      "description": "Tsumugi Kotobuki (琴吹 紬 Kotobuki Tsumugi), otherwise known as Mugi (むぎ) is everyone's favorite princess. She is a wealthy, cheery, cute girl with a gentle personality who plays the keyboard in the band Ho-kago Tea Time.",
+      "image": "image here"
+    },
+    {
+      "name": "Akiyama Mio",
+      "description": "Mio Akiyama is a princess like Mugi, atleast in our heart. She is the mature but scaredy-cat bassist, and second vocalist of the band Ho-kago Tea Time. Mio is the bass player of the Light Music Club. She acts mature, calm, and collected most of the time. An example is being the older sister figure to Azusa Nakano.",
+      "image": "image here"
+    },
+    {
+      "name": "Tainaka Ritsu",
+      "description": "Ritsu Tainaka (田井中 律), called Ricchan (りっちゃん Ricchan) by Tsumugi Kotobuki and Yui Hirasawa, is world's renowned tomboy. She is the self-appointed president of the Light Music Club, and the drummer of the band Ho-kago Tea Time. She was the one who rebooted the Light Music Club when it was on the verge of being disbanded and has become the natural leader of the club since then.",
+      "image": "image here"
+    },
+    {
+      "name": "Nakano Azusa",
+      "description": "Azusa Nakano (中野 梓 Nakano Azusa), nicknamed \"Azu-nyan\" (あずにゃん) by Yui Hirasawa, is a human-cat. She is a student at Sakuragaoka High School. She decided to join the Light Music Club after seeing the band's performance in the school festival and thus became Ho-kago Tea Time's rhythm guitarist. After the senior members graduated, she continued the club and became its new president. She became the main guitarist and main vocalist of the new band, Wakaba Girls.",
+      "image": "image here"
+    }
+  ]
+}

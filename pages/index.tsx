@@ -57,7 +57,7 @@ export const getStaticProps = async () => {
 
   return {
     props: {
-      slugs: files.map(filename => filename.replace('.md', ''))
+      slugs: files.map(filename => filename.replace('.json', ''))
     }
   };
 }
