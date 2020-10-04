@@ -25,7 +25,7 @@ export default function Post({ data }) {
           </div>
           <div className="col-md-4 text-center">
             <h3>Studio: {data.studio}</h3>
-            <img src={`${data.cover}`} alt={`${data.cover}`} height= '300px' width='250px' />
+            <img src={`${data.cover}`} alt={`${data.cover}`} height='250px' width='300px' />
           </div>
         </div>
       </div>
@@ -34,7 +34,7 @@ export default function Post({ data }) {
           <h1 className="mt-5">Characters</h1>
           {data.characters.map((character) => {
             return (
-              <div className="col-md-12">
+              <div key={character.name} className="col-md-12">
                 <h2>{character.name}</h2>
                 <p>{character.description}</p>
               </div>
