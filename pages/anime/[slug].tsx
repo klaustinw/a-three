@@ -25,7 +25,7 @@ export default function Post({ data }) {
           </div>
           <div className="col-md-4 text-center">
             <h3>Studio: {data.studio}</h3>
-            <img src={`${data.cover}`} alt={`${data.cover}`} />
+            <img src={`${data.cover}`} alt={`${data.cover}`} height= '300px' width='250px' />
           </div>
         </div>
       </div>

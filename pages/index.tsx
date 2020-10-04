@@ -14,7 +14,7 @@ export default function Home({ slugs }) {
         <meta
           title='description'
           name='description'
-          content='A-3 is a mini blog about anime trivia in hope to replace the eye-tearing Wikia Fandom'
+          content='A-3 is a mini blog about anime trivia.'
         />
       </Head>
       <div className={styles.container}>
